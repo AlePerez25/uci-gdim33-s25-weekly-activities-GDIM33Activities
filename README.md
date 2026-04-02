@@ -12,7 +12,7 @@ Put your inspo board link here. Do NOT leave a bare URL. REMOVE ALL INSTRUCTIONA
     - After discussing this with our LA, it seems he is quite fond of the concept; he recommended that we employ the "Blue Sky" brainstorming technique to identify the specific elements that would best serve our project. Our LA also reviewed my concept, noting that the accompanying reference images were visually compelling.
 
 ### Activity 2
-    - Break-down:
+- Break-down:
 <img width="1356" height="1129" alt="Screenshot 2026-04-01 191719" src="https://github.com/user-attachments/assets/d9005dfe-9696-4cbc-b0bb-63fb649d31fe" />
 
 
