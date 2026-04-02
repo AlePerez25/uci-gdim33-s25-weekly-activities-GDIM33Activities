@@ -13,7 +13,7 @@ Put your inspo board link here. Do NOT leave a bare URL. REMOVE ALL INSTRUCTIONA
 
 ### Activity 2
     - Break-down:
-    <img width="1356" height="1129" alt="Screenshot 2026-04-01 191719" src="https://github.com/user-attachments/assets/d9005dfe-9696-4cbc-b0bb-63fb649d31fe" />
+<img width="1356" height="1129" alt="Screenshot 2026-04-01 191719" src="https://github.com/user-attachments/assets/d9005dfe-9696-4cbc-b0bb-63fb649d31fe" />
 
 
 ## W2
