@@ -19,8 +19,7 @@
 ### Activity 1
 
 - Break-Down:
-![Uploading Screenshot 2026-04-15 194411.png…]()
-
+<img width="1512" height="1130" alt="Screenshot 2026-04-15 194411" src="https://github.com/user-attachments/assets/8d6c550b-4bda-4226-914e-fcaeed80bd0c" />
 
 ### Activity 2
 
