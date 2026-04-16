@@ -18,6 +18,10 @@
 
 ### Activity 1
 
+- Break-Down:
+![Uploading Screenshot 2026-04-15 194411.png…]()
+
+
 ### Activity 2
 
 - Question 1:
