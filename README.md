@@ -15,6 +15,19 @@
 
 
 ## W2
-Write your W2 Devlog here.
 
-Continue adding additional headers below this one for future weeks and future activities.
+### Activity 1
+
+### Activity 2
+
+- Question 1:
+    - Saving it as a Scene variable causes it to be accessible for any graph, because being a Scene variable makes it a global variable, compared to an Object variable which is not very accessible.
+
+- Question 2:
+    - Definitely, using Debug.Log() strings helped me a lot. I had many errors and confusions when attaching the nodes, and when I saw that the messages were not showing, it made me go back and experiment to see what I was missing until they finally appeared. In all the areas where the activity told us to add a debug, they didn’t work until after many changes and attempts.
+
+- Question 3:
+    - Definitely, this is related to my vertical slice. I have been trying to implement Set Cursor Lock for the past two days, and I wasn’t able to find a way to connect the nodes correctly. Seeing that this was our activity for the week made me very happy, and I focused on learning more so I can do it in my own project.
+
+- Question 4:
+    - I’m not completely sure. I don’t know if it would be better for my vertical slice if the player can click on objects directly, or if I should make it so interactions happen by locking the cursor in the center of the screen and using it that way.
