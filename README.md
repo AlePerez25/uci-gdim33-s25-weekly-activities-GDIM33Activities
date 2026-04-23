@@ -34,3 +34,37 @@
 
 - Question 4:
     - I’m not completely sure. I don’t know if it would be better for my vertical slice if the player can click on objects directly, or if I should make it so interactions happen by locking the cursor in the center of the screen and using it that way.
+
+## W4
+### Activity 1
+
+- Playtesting notes:
+
+    - Game:
+
+    The player moves using WASD. There is a lamp that can be toggled on and off, and a monster (NPC) that wanders across the terrain to random points; when the player approaches, it begins to chase them.
+
+    - Questions:
+
+    Is the monster actually scary? Do its movements feel natural when chasing the player? Is it too slow?
+    How does the camera sensitivity feel?
+    Does the lamp feel right? Is it confusing?
+
+    - Feedback:
+
+    The monster currently lacks animations, so it isn't as scary as it ought to be; however, I will work on this as quickly as possible. If the monster still fails to be frightening, I will look for an asset that is compatible and works better. I was advised to extend the detection radius so the monster spots the player sooner; otherwise, it simply appears right in front of you, leaving the player no time to run. I also received a recommendation to adjust the monster's speed.
+
+    I was given feedback that both the camera and the flashlight feel good.
+
+## Activity 2
+
+1) Personally, I think yes, since the programmer would only need to keep creating Scriptable Objects and adding them to the list so it can continue, and since the main code that changes displays them is already there, I don’t think more code would be needed.
+
+2) As far as I know, there isn’t an exact limit because there is no limit to creating Scriptable Objects or to the size of a list. But if the dialogue becomes very complex, from what I understand the writer would have to use some other system to have better visualization and flow, which can later be connected to Unity.
+
+3) Its purpose is to generate its information and update itself accordingly; for example, when we create a custom event. Unity only updates when a class inherits from MonoBehaviour and Scriptable Object.
+
+
+
+
+
