@@ -71,16 +71,16 @@
 Scriptable objects: Create inventory for mushrooms.
 
 Big Steps:
-Create C# script to be able to create ScriptableObject and modify information.
-Create a C# script to connect PickUp(I already created this system) script and UI inventory using singleton?. 
+- Create C# script to be able to create ScriptableObject and modify information.
+- Create a C# script to connect PickUp(I already created this system) script and UI inventory using singleton?. 
 
 Small Steps: 
- 
-Create the Scriptable objects including prefab and name to be easy to identify in the future. If I’m able to add the information that a ask for in the script then it works 
-Create the canvas UI. I would build in and run my project to see if the UI is aligned with the screen correctly.
-Find a way to connect this IU to the inventory script. Maybe by using singletons to connect script and UI. I would see if by clicking on the items the image shows if not I would add a debug.log(“here”) to the connection method/singleton and see if the problem is in my script or in canva. 
-Find a way to create the note for the player to display in the UI but by clicking a button being able to open it so the player can see the information any time they need it. For this one I would also add a debug.log to see it by pressing the keyword this message comes out.
-Create a method to identify the scriptable objects by name. In that way I can manage when to end the game. I can add a debug.log(“Quess complete”) to let me know if this method is working correctly.
+
+- Create the Scriptable objects including prefab and name to be easy to identify in the future. If I’m able to add the information that a ask for in the script then it works 
+- Create the canvas UI. I would build in and run my project to see if the UI is aligned with the screen correctly.
+- Find a way to connect this IU to the inventory script. Maybe by using singletons to connect script and UI. I would see if by clicking on the items the image shows if not I would add a debug.log(“here”) to the connection method/singleton and see if the problem is in my script or in canva. 
+- Find a way to create the note for the player to display in the UI but by clicking a button being able to open it so the player can see the information any time they need it. For this one I would also add a debug.log to see it by pressing the keyword this message comes out.
+- Create a method to identify the scriptable objects by name. In that way I can manage when to end the game. I can add a debug.log(“Quess complete”) to let me know if this method is working correctly.
 Create a particle effect to make the mushrooms glow in the dark and find a way to make them still difficult to find. I would be able to see if my particle system is working or not in the Scene.
 
 ### Activity 2
