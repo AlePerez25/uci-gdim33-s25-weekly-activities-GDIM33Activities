@@ -90,6 +90,10 @@ For today's class I was able to create the Scriptable objects C# script and I wa
 ## W6
 
 ### Activity 1
+- Testers:
+    - Kai
+    - Laura
+    - TA
 
 - Playtesting Goal:
     - How does the inventory feel?
