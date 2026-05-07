@@ -87,7 +87,7 @@ Create a particle effect to make the mushrooms glow in the dark and find a way t
 
 For today's class I was able to create the Scriptable objects C# script and I was able to fill in the necessary information. Also I created my prefabs and I started to create my manager inventory script using singleton. 
  
-## W5
+## W6
 
 ### Activity 1
 
