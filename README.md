@@ -86,6 +86,21 @@ Create a particle effect to make the mushrooms glow in the dark and find a way t
 ### Activity 2
 
 For today's class I was able to create the Scriptable objects C# script and I was able to fill in the necessary information. Also I created my prefabs and I started to create my manager inventory script using singleton. 
+ 
+## W5
+
+### Activity 1
+
+- Playtesting Goal:
+    - How does the inventory feel?
+    - How does the game experience feel?
+    - It was very difficult to find the mushroom?
+    - Should I add more than one monster ?
+    - More/less mushrooms?
+    - Did you feel pressure? lost?
+
+
+### Activity 2
 
 
 
