@@ -93,14 +93,20 @@ For today's class I was able to create the Scriptable objects C# script and I wa
 
 - Playtesting Goal:
     - How does the inventory feel?
-    - How does the game experience feel?
     - It was very difficult to find the mushroom?
-    - Should I add more than one monster ?
-    - More/less mushrooms?
-    - Did you feel pressure? lost?
+    - Should I add more than one monster?
+    - Are the instruction difficult to understand
 
+- Notes:
+    - The TA and my playtesting partners let me know that my game was really good and interesting. They let me know that I definitely need a better instruction paper and idea of the game. They tell me that the inventory was smooth and well implemented. I ask about adding more monsters because the space is too big and it is difficult to find the monster around the forest. The TA also recommended that I create a way to show the monster by making damage to the player like red around the screen or something like that which I think is a great idea. 
 
 ### Activity 2
+
+- Questions:
+    1) As I understand it, when you multiply them, the intensity increases because the RGB values—which are responsible for creating the pixel's color—are being multiplied; and when these values ​​are multiplied, the intensity goes up.
+    2) This will cause it to appear more translucent, because the alpha is responsible for managing pixel transparency; consequently, when it is added in the graph, the object's translucency will be reflected.
+    3) From what I understood in the exercise, the shader gets these UV values ​​from the UV Map of the Shiba that we added to our material.
+    4) I find this very interesting. I hadn't imagined that it would be necessary to create textures and manipulate colors, but I can understand it, and I can see why it is necessary.
 
 
 
