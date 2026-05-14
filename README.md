@@ -113,5 +113,20 @@ For today's class I was able to create the Scriptable objects C# script and I wa
     4) I find this very interesting. I hadn't imagined that it would be necessary to create textures and manipulate colors, but I can understand it, and I can see why it is necessary.
 
 
+## W6
+
+1) The data for the Vertex Color node comes from the mesh of the original 3D model.
+
+2) Because each of these vertices, with their specific colors, blends based on the distance of each one.
+
+3) Because it lacks texture, it creates a solid visual effect without excessive detail. This allows us to spot errors in the mesh—such as the one visible in the dog from the activity—that were made by our artist.
+
+4) If I am observing correctly, on one of the Shiba's sides (the thigh), a slight hole is visible—to the point where the mesh itself is somewhat exposed—unlike the rest of the body; this leads me to believe that it is a mesh error.
+
+5) For example, to add lighting to a terrain, the player needs to have good visibility; with this tool, we can ensure that the lighting is properly configured. Alternatively, it can be used to highlight a specific object through the use of lighting.
+
+6) Because having two vectors pointing in opposite directions results in a negative dot product—an effect that contradicts what we are trying to achieve.
+
+7) Personally I'm not entirely sure, but I think it's so that the textures and the assigned color blend together.
 
 
