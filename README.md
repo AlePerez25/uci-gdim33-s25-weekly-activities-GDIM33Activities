@@ -113,7 +113,7 @@ For today's class I was able to create the Scriptable objects C# script and I wa
     4) I find this very interesting. I hadn't imagined that it would be necessary to create textures and manipulate colors, but I can understand it, and I can see why it is necessary.
 
 
-## W6
+## W7
 
 - Questions: 
 
@@ -130,5 +130,24 @@ For today's class I was able to create the Scriptable objects C# script and I wa
     6) Because having two vectors pointing in opposite directions results in a negative dot product—an effect that contradicts what we are trying to achieve.
 
     7) Personally I'm not entirely sure, but I think it's so that the textures and the assigned color blend together.
+
+## W8
+
+### Activity 1
+
+Playtester partners:
+Billal and Laura
+
+1) Did the game make sense?
+2) Are four monsters enough for the whole terrain?
+4) Did you find the instruction easy ? should I move them to be a separate scene after starting the game?
+5) Is it too difficult to find all the mushrooms and filters?
+6) Is the music too much? Should it be less volume?
+7) Which sound effects should I add?
+8) Does the game feel okay?
+
+- Playtest notes:
+
+    - The players let me know that the core gameplay loop is solid, the sound design and monsters are well-implemented, and the instructions are clear. However, they did recommend applying a brighter material to the filters; this would make them easier to spot—much like the yellow ones. Personally, I liked the fact that they were hard to find, as that aligns with the game's core concept, but I do understand the frustration. They also suggested adding more monsters; while four is a decent number, it is still too few for the large terrain I created. Aside from that, everything went well; the game successfully made them feel nervous and scared.
 
 
