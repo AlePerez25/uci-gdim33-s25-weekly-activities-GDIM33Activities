@@ -135,8 +135,14 @@ For today's class I was able to create the Scriptable objects C# script and I wa
 
 ### Activity 1
 
+Since Milestone 2, I have added more elements to my terrain, specifically more trees, branches on the ground, and additional monsters. I had also planned to add more sounds, but I have not yet managed to implement them completely.
+
+[Game link](https://alejandra-perez.itch.io/playtest-w8)
+
 Playtester partners:
 Billal and Laura
+
+Questions:
 
 1) Did the game make sense?
 2) Are four monsters enough for the whole terrain?
@@ -150,4 +156,13 @@ Billal and Laura
 
     - The players let me know that the core gameplay loop is solid, the sound design and monsters are well-implemented, and the instructions are clear. However, they did recommend applying a brighter material to the filters; this would make them easier to spot—much like the yellow ones. Personally, I liked the fact that they were hard to find, as that aligns with the game's core concept, but I do understand the frustration. They also suggested adding more monsters; while four is a decent number, it is still too few for the large terrain I created. Aside from that, everything went well; the game successfully made them feel nervous and scared.
 
+### Activity 2
+
+1) As I understand it, it is used to successfully control the specific area where the selected color will be drawn, as well as the areas where it will not be visible. It is similar to the pre-learning example, where the components communicate with one another to verify whether they possess the correct color and to determine which areas require updating.
+
+2) I'm not entirely sure, but I would say it is the Shiba, since its actual form is present and we are surrounding it with another figure adapted to that same shape, which suggests that it is essentially a duplicate of the object itself. 
+
+3) We add the different lighting sections together so that both the shadowed and lit areas are combined to produce the final color.
+
+4) This is because the Renderer Feature is configured to apply only to specific layers. In this way, we can more easily manage which objects we want to be affected by this effect 
 
