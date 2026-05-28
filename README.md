@@ -166,3 +166,29 @@ Questions:
 
 4) This is because the Renderer Feature is configured to apply only to specific layers. In this way, we can more easily manage which objects we want to be affected by this effect 
 
+## W9
+
+### Activity 1
+
+- Game Name: Minecraft
+
+    - Cube Outline effect:
+
+        - When a player hovers cursor over a block there is an outline over it to indicate to the players what block they are going to either mine/place something on. 
+        - We think that this effect is a renderer feature that is applied to certain objects.
+        - This game effect is activated when the cursor is pointing to the specific game objects and it is deactivated when the cursor is not over the object. 
+
+    - Teleportation effect (Nether):
+        - Full-screen post-processing effect. 
+        - Maybe it has a timer to activate and deactivate while the other world(Nether) loads.
+
+    - Effect of attacking something:
+        - When player hits something living (mob, another player) they turn red for a brief moment  
+        - Material change? 
+        - An effect in an individual object's material
+        - Set a timer to control red effect using Time.deltaTime.
+
+### Activity 2
+
+
+
