@@ -194,7 +194,7 @@ For my milestone 3, I have two shader graphs. One is used to create an outline o
 
 It was complicated because at first it was not working. I kept trying to fix the shader graph, but nothing worked. My solution was to delete it and make it again. Most likely, my problem was that I had accidentally clicked or changed something that I did not remember, and that caused an unwanted effect.
 
-The graph in wich I work today:
+The graph shader in wich I work today:
 <img width="2500" height="1310" alt="Screenshot 2026-05-27 194537" src="https://github.com/user-attachments/assets/9f228a8a-2b15-4ddc-805c-478b5eac4565" />
 
 
