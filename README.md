@@ -190,5 +190,6 @@ Questions:
 
 ### Activity 2
 
+For my milestone 3, I have two shader graphs. One is used to create an outline on the safety kits so the player can recognize that these are the objects they should collect in case they need them. During todays activity, I worked on my shader graph called “Filters” which uses nodes such as Base Color, Sample Texture 2D, Multiply, Add, Split, and Fresnel Effect. All of these are connected and are responsible for first creating a translucent, glass-like effect. And I use the node called Fresnel Effect wich is responsible for creating a glowing effect because it allows us to modify the color in HDR.
 
-
+It was complicated because at first it was not working. I kept trying to fix the shader graph, but nothing worked. My solution was to delete it and make it again. Most likely, my problem was that I had accidentally clicked or changed something that I did not remember, and that caused an unwanted effect.
