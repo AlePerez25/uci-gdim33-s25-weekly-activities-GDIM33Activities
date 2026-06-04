@@ -198,6 +198,36 @@ The graph shader in wich I work today:
 <img width="2500" height="1310" alt="Screenshot 2026-05-27 194537" src="https://github.com/user-attachments/assets/9f228a8a-2b15-4ddc-805c-478b5eac4565" />
 
 
+## W10
+
+### Activity 1
+
+Playtester: Kai
+
+(Game Link)[https://alejandra-perez.itch.io/playtesting-final]
+
+Questions:
+
+2) Is it too difficult or too easy to understand?
+3) Which suggestions do you have to improve the game?
+4) Is the music okay?
+5) Is it easy to identify which things are interactable?
+6) Is the teaser better than the weapon to communicate the idea of not killing the zombie?
+
+Notes:
+
+I was told that the game is well-balanced and that it is easy to find the filters and mushrooms, since they now glow—unlike last time, when finding them was more complicated because they were so well-hidden. He also mentioned that while having so many monsters was stressful, it was fun to constantly have to stay on the move—which was precisely my intention. The music is fine, the sound effects are good, and he remarked that it is now easier to distinguish which objects are interactive from those that are not. He also told me that the weapon change was a good addition, as it made it clear that the zombies were not meant to be killed.
+
+### Activity 2
+
+We talked about how we can make a game easier to visualize, for example by breaking large systems into smaller systems and seeing how they will work with one another. We also discussed breaking down our main gameplay mechanics and making notes about organizing our time, considering how big the game is, and whether our expectations for it are realistic.
+
+My teammate Kai told us that this changes our perspective because it helps us realize how large what we are planning really is and understand how long it may take us to build our projects.
+
+### Activity 3
+
+Today, I focused on adding more monsters—specifically, figuring out what constituted "many" versus "few." I feel that eight monsters is a sufficient number. I also spent some time fixing one of my materials; since I had used the same material for two different effects, a problem arose when I changed its color, as it no longer looked right on the second object where I had applied it. Consequently, I set about creating a brand-new material specifically for that second object. It proved a bit tricky because I had forgotten exactly what changes I had made to the original material, but I managed to get it done.
+
 
 
 
