@@ -204,7 +204,7 @@ The graph shader in wich I work today:
 
 Playtester: Kai
 
-(Game Link)[https://alejandra-perez.itch.io/playtesting-final]
+[Game Link](https://alejandra-perez.itch.io/playtesting-final)
 
 Questions:
 
