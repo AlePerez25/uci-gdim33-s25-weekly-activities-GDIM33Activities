@@ -208,11 +208,11 @@ Playtester: Kai
 
 Questions:
 
-2) Is it too difficult or too easy to understand?
-3) Which suggestions do you have to improve the game?
-4) Is the music okay?
-5) Is it easy to identify which things are interactable?
-6) Is the teaser better than the weapon to communicate the idea of not killing the zombie?
+1) Is it too difficult or too easy to understand?
+2) Which suggestions do you have to improve the game?
+3) Is the music okay?
+4) Is it easy to identify which things are interactable?
+5) Is the teaser better than the weapon to communicate the idea of not killing the zombie?
 
 Notes:
 
